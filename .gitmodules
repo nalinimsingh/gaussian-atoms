@@ -1,0 +1,6 @@
+[submodule "gsplat"]
+	path = gsplat
+	url = https://github.com/nalinimsingh/gsplat
+[submodule "nerfstudio"]
+	path = nerfstudio
+	url = https://github.com/nalinimsingh/nerfstudio
