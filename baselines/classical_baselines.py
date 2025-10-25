@@ -48,7 +48,7 @@ def reconstruct_3d(projections, angles, recon_type='fbp'):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--proj_path', type=str, default='../data/projections/',
+    parser.add_argument('--proj_path', type=str, default='../data/baseline_projections_final/',
                        help='Path to projection files')
     args = parser.parse_args()
     proj_path = os.path.join(args.proj_path)
