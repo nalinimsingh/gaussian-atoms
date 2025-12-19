@@ -1,0 +1,13 @@
+*.h5
+*.json
+*.npy
+*.npz
+*.png
+*.pyc
+*.txt
+*.log
+*.yaml
+*.yml
+*.ckpt
+*.wandb
+*latest-run
